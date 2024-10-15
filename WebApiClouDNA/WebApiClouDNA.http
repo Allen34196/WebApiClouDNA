@@ -1,0 +1,6 @@
+@WebApiClouDNA_HostAddress = http://localhost:5246
+
+GET {{WebApiClouDNA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
